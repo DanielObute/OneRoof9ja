@@ -41,3 +41,6 @@ venv/
 
 # Django generated files
 staticfiles/
+
+# Local backups — never commit
+/oneroof-backup/
