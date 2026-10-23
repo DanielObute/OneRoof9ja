@@ -1,4 +1,4 @@
-export const API = 'http://127.0.0.1:8000/api';
+export const API =  'https://oneroof9ja-api.onrender.com/api';
 
 // The login "key" is kept in the browser, so people stay logged in after a refresh.
 const TOKEN_KEY = 'oneroof_token';
