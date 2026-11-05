@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OneRoof9ja/static/css/main.1fc7c46a.css",
+    "main.css": "/OneRoof9ja/static/css/main.c956b4c6.css",
     "main.js": "/OneRoof9ja/static/js/main.ca2a42a5.js",
     "static/media/hero3.jpg": "/OneRoof9ja/static/media/hero3.5ad0c8b5620625183862.jpg",
     "static/media/hero4.jpg": "/OneRoof9ja/static/media/hero4.02b6bf19a87fe49e1174.jpg",
@@ -8,11 +8,11 @@
     "static/media/hero2.jpg": "/OneRoof9ja/static/media/hero2.21697b7393f94877627a.jpg",
     "static/media/logo.svg": "/OneRoof9ja/static/media/logo.5d7ffe5c1cc500814613323575cac085.svg",
     "index.html": "/OneRoof9ja/index.html",
-    "main.1fc7c46a.css.map": "/OneRoof9ja/static/css/main.1fc7c46a.css.map",
+    "main.c956b4c6.css.map": "/OneRoof9ja/static/css/main.c956b4c6.css.map",
     "main.ca2a42a5.js.map": "/OneRoof9ja/static/js/main.ca2a42a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fc7c46a.css",
+    "static/css/main.c956b4c6.css",
     "static/js/main.ca2a42a5.js"
   ]
 }
